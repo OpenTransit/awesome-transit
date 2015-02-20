@@ -6,6 +6,10 @@ http://www.gtfs-data-exchange.com/
 
 
 virtualistion:
+- https://citymapper.com
+- http://www.qixxit.de/
+- http://simcity.vasile.ch/grenoble/
+- 
 
 
 trip search engin:
