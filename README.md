@@ -2,7 +2,9 @@
 
 data
 gtfs:
-http://www.gtfs-data-exchange.com/
+ - http://www.gtfs-data-exchange.com/
+ - http://www.transitfeeds.com/
+ - http://www.navitia.io/datasets/ (login required?)
 
 
 virtualistion:
